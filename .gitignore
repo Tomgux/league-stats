@@ -1,0 +1,5 @@
+*.txt
+.gitignore
+*.csv
+*.png
+/.vscode
