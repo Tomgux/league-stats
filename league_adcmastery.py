@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 REGION_ROUTING = "europe"     # "europe", "americas", "asia", "sea"
 PLATFORM_ROUTING = "euw1"     # "euw1", "eun1", "na1", "kr", etc.
 
-TARGET_MATCHES = 1000          # 350 matches = 700 Silver ADC rows
+TARGET_MATCHES = 1000          
 OUTPUT_CSV = "silver_adc_mastery.csv"
 OUTPUT_PNG = "silver_adc_mastery_winrate.png"
 

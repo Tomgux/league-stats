@@ -15,7 +15,7 @@ from sklearn.linear_model import LogisticRegression
 REGION_ROUTING = "europe"
 PLATFORM_ROUTING = "euw1"
 
-TARGET_MATCHES = 1000  # 350 matches = ~700 Silver ADC games
+TARGET_MATCHES = 1000  
 TIMESTAMPS = [10, 15, 20, 25]
 OUTPUT_CSV = "silver_adc_cs_timelines.csv"
 OUTPUT_PNG = "silver_adc_cs_per_min_winrate.png"
